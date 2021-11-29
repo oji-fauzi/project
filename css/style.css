@@ -1,0 +1,59 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  /* @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+  .featurette-heading {
+    font-weight: 400;
+    line-height: 1;
+  } */
+
+.navbar{
+    background-color: #14213d;
+}
+.navbar .navbar-brand{
+    letter-spacing: 2px;
+}
+section{
+    padding: 3rem 0;
+}
+.about{
+    background-color: #1d1d1d;
+    padding: 2rem 0;
+}
+.working{
+    background-color: #1d1d1d;
+    padding: 2rem 0;
+}
+.working .table td{
+    font-size: 14px;
+}
+.footer {
+    background-color: #212529;
+    color: #fff;
+    padding: 0;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+  }
+  .footer .container .row .col-md-4 .card {
+    background: none;
+    border: none;
+  }
+  .footer .container .row .col-md-4 .bi {
+    font-size: 2rem;
+    margin: 0 5px;
+    color: #fff;
+  }
